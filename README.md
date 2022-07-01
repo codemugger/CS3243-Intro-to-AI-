@@ -10,7 +10,6 @@ By the end of this class, students will be familiar with:
 
 *Personally I feel these modules are pivotal for one to better understand the AI Concepts:* 
 1. Coding Proficiency (CS1010S) 
-
 if "cs1010s" in modules_taken:
 	return good_to_go
 else:
