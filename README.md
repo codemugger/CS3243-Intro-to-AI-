@@ -8,3 +8,4 @@ By the end of this class, students will be familiar with:
 	4. agent logic
 	5. Bayesian networks (via independent learning)
 
+Inside this repository will contain my solutions to the stipulated 2 projects. I may or may not do the 3rd project given the tight deadline during the Special Term. Now that I have given you the disclaimer, please forgive me if my projects ain't perfect. Still a learner and a code mugger 🥺🙏🏻
